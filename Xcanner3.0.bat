@@ -369,7 +369,7 @@ echo This is a batch script that gives to some cmd comands a more graphic appear
 echo Is focused on beginner people, for learn how this comands work and what they do.
 echo I maded 2 versions more before this 3.0 version but they are not posted because this 3.0 version is the most complete.
 echo This is a Windows verion, maybe within a time i will do an Linux version.
-echo Some Tools need admin so it's better if you run this script whith amdin.
+echo Some Tools need admin so it's better if you run this script whith admin.
 echo It's my first script, sorry if it's too basic :)
 pause
 goto menu
