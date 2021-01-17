@@ -9,4 +9,4 @@ By: pesquerda404,
  version but they are not posted because this 3.0 version is the most complete.
  This is a Windows verion, maybe within a time i will do an Linux version.
  Some Tools need admin so it's better if you run this script whith admin. 
-It's my first script, sorry if it's too basic :) 
+It's my first script, sorry if it's too basic, in the future i think I will improve :)
