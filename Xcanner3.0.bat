@@ -370,7 +370,7 @@ echo I maded 2 versions more before this 3.0 version but they are not posted bec
 echo This is a Windows verion, maybe within a time i will do an Linux version.
 echo Some Tools need admin so it's better if you run this script whith admin.
 echo It's my first script, sorry if it's too basic :)
-echo In the future I think I will improove.
+echo In the future I think I will improve.
 pause
 goto menu
 
