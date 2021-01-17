@@ -303,7 +303,6 @@ REM IPCONFIG
 :IPconfig
 cls
 ipconfig
-cls
 pause
 goto menu
 cls
