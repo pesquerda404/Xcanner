@@ -283,6 +283,7 @@ REM NORMAL CURL
 :ncurl
 cls
 curl %he%
+pause
 cls
 goto cmenu
 cls
