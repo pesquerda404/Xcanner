@@ -339,6 +339,7 @@ REM NORMAL NETSTAT
 :nnetstat
 cls
 netstat
+pause
 cls
 goto Netstat
 cls
@@ -346,6 +347,7 @@ REM EXENAT
 :exenat
 cls
 netstat -b
+pause
 cls
 goto Netstat
 cls
