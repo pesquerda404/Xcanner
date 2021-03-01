@@ -59,7 +59,7 @@ echo.
 echo                                                  ////////////////
 echo  ////////////////////////////////////////////////////PING MENU///////////////////////////////////////////////////////
 echo  /                                               ////////////////                                                   /
-echo  /         1-Normal Ping
+echo  /         1-Normal Ping                                                                                            /
 echo  /         2-Specify number of pakages                                                                              /
 echo  /         3-Pakages Size                                                                                           /
 echo  /         4-Pakage Route                                                                                           /
