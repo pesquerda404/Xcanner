@@ -304,6 +304,7 @@ REM IPCONFIG
 :IPconfig
 cls
 ipconfig
+pause
 goto menu
 cls
 REM NSLOOKUP
